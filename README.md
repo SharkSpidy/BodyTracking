@@ -1,5 +1,5 @@
 
-![kerascv](https://github.com/TH-Activities/saturday-hack-night-template/assets/117498997/8a64f118-b69d-4bd7-b59b-a28becafe0dd)
+![kerascv]()
 
 
 
